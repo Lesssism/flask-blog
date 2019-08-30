@@ -25,6 +25,7 @@ pip install -r requirements.txt  # 安装python的依赖包
 <br>
 
 第三步，启动flask-blog
+
 (选项1): Windows
 ``` bash
 set FLASK_APP=application
