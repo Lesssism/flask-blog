@@ -1,10 +1,10 @@
 运行教程
 
-第一步，下载完解压文件
+**第一步，下载完解压文件**
 
 <br>
 
-第二步，配置环境
+**第二步，配置环境**
 
 (选项1): Windows
 ``` bash
@@ -25,7 +25,7 @@ pip install -r requirements.txt  # 安装python的依赖包
 
 <br>
 
-第三步，启动flask-blog
+**第三步，启动flask-blog**
 
 (选项1): Windows
 ``` bash
