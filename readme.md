@@ -22,6 +22,7 @@ source venv/bin/activate  # 激活虚拟环境
 pip install -r requirements.txt  # 安装python的依赖包
 ```
 
+
 <br>
 
 第三步，启动flask-blog
