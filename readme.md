@@ -1,4 +1,4 @@
-**这是一个用Flask搭建的博客，[系列教程](https://www.webskill.cn/post/环境的配置)**
+**这是一个用Flask搭建的博客，[系列教程](https://www.webskill.cn/post/模板)**
 
 <br>
 
@@ -12,7 +12,7 @@
 
 (选项1): Windows
 ``` bash
-cd flask-blog-0.1  # 进入flask-blog-master目录
+cd flask-blog-0.2  # 进入flask-blog-master目录
 python3 -m venv venv  # 新建一个python3虚拟环境
 venv\Scripts\activate.bat # 激活虚拟环境 （Windows）
 pip install -r requirements.txt  # 安装python的依赖包
