@@ -1,10 +1,10 @@
-**这是一个用Flask搭建的博客，[系列教程](https:www.webskill.cn/post/环境的配置)**
+**这是一个用Flask搭建的博客，[系列教程](https://www.webskill.cn/post/环境的配置)**
 
 <br>
 
 运行教程
 
-**第一步，下载完解压文件**
+**第一步，下载完解压文件**  
 
 <br>
 
